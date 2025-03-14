@@ -1,1 +1,1 @@
-# ImageGenie
+# Imagery
